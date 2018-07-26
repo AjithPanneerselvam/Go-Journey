@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"GoInterfaces/pkgExample"
+	"Interfaces/pkgExample"
 )
 
 type artithmetic interface{
