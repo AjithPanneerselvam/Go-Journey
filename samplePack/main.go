@@ -1,11 +1,11 @@
-package main 
+package main
 
 import (
-  "fmt"
+	"fmt"
 )
 
 func main() {
-  hello = "hello"
-  world := "world"
-  fmt.Println(hello)
+	hello = "hello"
+	world := "world"
+	fmt.Println(hello)
 }
